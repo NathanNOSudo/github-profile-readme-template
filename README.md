@@ -1,5 +1,8 @@
 # github-profile-readme-template
-A template for adding and updating a personal readme page for your github,
+A template for adding and updating a personal readme page for your github! Be sure to leave a Star!
+
+## Instructions 
+**Follow these steps:**
 - fork this repo / Download to your machine
 - Open README.MD and copy the code.
 - Create a new repo and name it your github username exactly how it appears.
@@ -7,9 +10,12 @@ A template for adding and updating a personal readme page for your github,
 - Paste the code from this README.md.
 - Go through and edit to make it your own custom README.md for your profile.
 - If there is a badge you'd like thats not included you can always google it. Or check out https://github.com/MikeCodesDotNET/ColoredBadges. These badges were included for you to see how they are styled and just to showcase a few of the very many different options you can add.
-
-<!--  -->
 - The links above the stats card at the bottom just need your own personal URL to direct to your pages. 
+
+## Qustions or Issues
+For questions or issues open a new issue by [CLICKING HERE!](https://github.com/NathanNOSudo/github-profile-readme-template/issues/new/choose)
+Alternativley click issues at the top of the page and then select new issue on the right side of the page.
+**Please check if your issue or question was asked prior to submiting and please feel free to reach out to me on slack, message me via my portfolio, or Linkedin.**
 
 <h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
 <h3 align="center">A passionate Full-Stack developer from "Hometown"</h3>
