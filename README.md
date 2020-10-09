@@ -6,7 +6,9 @@ A template for adding and updating a personal readme page for your github,
 - Create and open your README.md in your new repo.
 - Paste the code from this README.md.
 - Go through and edit to make it your own custom README.md for your profile.
-- If there is a badge you'd like thats not included you can always google it. These badges were included for you to see how they are styled and just to showcase a few of the very many different options you can add.
+- If there is a badge you'd like thats not included you can always google it. Or check out https://github.com/MikeCodesDotNET/ColoredBadges. These badges were included for you to see how they are styled and just to showcase a few of the very many different options you can add.
+
+<!--  -->
 - The links above the stats card at the bottom just need your own personal URL to direct to your pages. 
 
 <h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
